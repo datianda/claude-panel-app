@@ -11,7 +11,7 @@
 
 **[🌐 访问官网](https://www.lifeisshortplaymore.com/#p/claudepanel)** &nbsp;|&nbsp; **[⬇ 最新版本 · Releases](../../releases/latest)**
 
-<img src="assets/panel-sessions.png" width="380" alt="面板 · 会话列表">
+<img src="assets/hero.png" width="900" alt="面板 · 会话列表与临时对话">
 
 <sub>Windows 10/11 · 面板与监控永久免费 · 增强功能 ¥98 买断（2 台电脑）· 首次运行 7 天全功能试用</sub>
 
@@ -51,7 +51,7 @@
 - **额度提醒**：Pro / Max 的 5 小时、7 天额度到 80% / 95% 时提醒，重置后也提醒。
 - **手机推送**：离开电脑时，等你回复、卡住、额度快用完推到手机（Bark、ntfy、Server 酱、企业微信、Webhook）。
 
-<div align="center"><img src="assets/session-menu.png" width="300" alt="会话右键菜单"></div>
+<div align="center"><img src="assets/menu.png" width="900" alt="会话列表与右键菜单"></div>
 
 ### 🪟 排列窗口、多显示器
 
@@ -78,7 +78,7 @@
 
 ### 🎙 语音输入：按住 F8 说话（付费）
 
-<div align="center"><img src="assets/voice-done.png" width="420" alt="语音输入浮条"></div>
+<div align="center"><img src="assets/voice.png" width="900" alt="语音输入浮条：准备中、正在听、已输入"></div>
 
 对着 Claude 窗口按住 **F8** 说话，松开后文字打进输入框；按住 **F9** 说完直接发送。
 **本机离线识别，不上传声音**：Whisper large-v3（N 卡，每句约 1 秒）+ SenseVoice（CPU）两个引擎同时跑，谁先好用谁。
