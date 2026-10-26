@@ -71,7 +71,7 @@
 
 ### 💬 临时对话：在所有项目里问 Claude（付费）
 
-<div align="center"><img src="assets/quickchat.png" width="380" alt="临时对话"></div>
+<div align="center"><img src="assets/quickchat.png" width="900" alt="临时对话"></div>
 
 面板最下面一行输入框，临时问一句不用另开终端：「哪个项目用过 sherpa-onnx」「ScrcpyStudio 的试用期怎么算的」。
 它先看一份项目地图挑出相关项目，再进去读代码找答案。背后是 Claude Code 官方的 `claude -p`，**用你自己的 Claude 账号和额度**。
