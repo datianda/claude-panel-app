@@ -2,15 +2,15 @@
  "payload": {
   "kind": "update",
   "app": "claudepanel",
-  "version": "0.44.0",
-  "ts": 1793089507422,
-  "size": 52390320,
-  "sha256": "59df73e7822cf9fa96b88810b6fc2e3f87a5f0e4df1a9ec0cdd297fb18989baa",
+  "version": "0.46.0",
+  "ts": 1793116912746,
+  "size": 52448416,
+  "sha256": "38ad2efcccce4bc5f48f2fe4305dbbce4cd991cc91676d7b84d71e7c55c503b8",
   "urls": [
-   "https://gitee.com/sitg/claude-panel-app/releases/download/v0.44.0/ClaudePanel.exe",
-   "https://github.com/datianda/claude-panel-app/releases/download/v0.44.0/ClaudePanel.exe"
+   "https://gitee.com/sitg/claude-panel-app/releases/download/v0.46.0/ClaudePanel.exe",
+   "https://github.com/datianda/claude-panel-app/releases/download/v0.46.0/ClaudePanel.exe"
   ],
-  "notes": "面板上常驻显示剩余额度：5 小时和 7 天额度各剩多少、还有多久重置。"
+  "notes": "多个 Claude 账号一键切换（额度用完在原窗口换账号接着干）、面板常驻显示剩余额度、右键菜单和设置窗口重新整理。"
  },
- "sig": "SjPfEtf5L4HHJxUnYvgEUC+Sc4LU4AZME2q0YOjFh7+kY62N2AnFP+a1GcaVJSTm+wmTxBJGl62911crnLQHDw=="
+ "sig": "Y1JRwgjO4BFvqoglL/AT0Mx2K6cS3HxFdYBEXvnoHnWPyif/1jzb2JjcUADxj9bUPbOCh/YLAnPKNhn7vgjwBg=="
 }
