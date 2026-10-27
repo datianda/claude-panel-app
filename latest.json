@@ -2,15 +2,15 @@
  "payload": {
   "kind": "update",
   "app": "claudepanel",
-  "version": "0.43.0",
-  "ts": 1792980814765,
-  "size": 52385264,
-  "sha256": "095cc908940cf0621d9fceb3a1c211dcd2a4d68373fea0ab70b44e235dd376e7",
+  "version": "0.44.0",
+  "ts": 1793089507422,
+  "size": 52390320,
+  "sha256": "59df73e7822cf9fa96b88810b6fc2e3f87a5f0e4df1a9ec0cdd297fb18989baa",
   "urls": [
-   "https://gitee.com/sitg/claude-panel-app/releases/download/v0.43.0/ClaudePanel.exe",
-   "https://github.com/datianda/claude-panel-app/releases/download/v0.43.0/ClaudePanel.exe"
+   "https://gitee.com/sitg/claude-panel-app/releases/download/v0.44.0/ClaudePanel.exe",
+   "https://github.com/datianda/claude-panel-app/releases/download/v0.44.0/ClaudePanel.exe"
   ],
-  "notes": "正式发布：接上官网的账号与购买；公开下载仓库与自动更新。"
+  "notes": "面板上常驻显示剩余额度：5 小时和 7 天额度各剩多少、还有多久重置。"
  },
- "sig": "/k16MuS39eB0LW+QtyglLusdJ3f818Mv1wJfnrnBfq5Y6jphTEfr5FjyxIA65QHtGnguDQkhKiw3vOogCyZ2AQ=="
+ "sig": "SjPfEtf5L4HHJxUnYvgEUC+Sc4LU4AZME2q0YOjFh7+kY62N2AnFP+a1GcaVJSTm+wmTxBJGl62911crnLQHDw=="
 }
